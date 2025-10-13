@@ -3,9 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaous-noureddine" alt="khaous-noureddine" /></a> </p> -->
 
-- 🔭 I’m currently Implementing [CamemBERT from scratch](https://github.com/khaous-noureddine/CamemBERT-from-scratch-pytorch)
 
-- 🌱 I’m currently learning **Cuda**
 
 - 📫 How to reach me **noureddine.khaous@etu.sorbonne-universite.fr**
 
