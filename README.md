@@ -6,6 +6,8 @@
 
 
 - 📫 How to reach me **noureddine.khaous@etu.u-paris.fr**
+- 📄 Learn more about my experience: [Resume](https://drive.google.com/file/d/1QbPfKdSJOFjLmqkW7pKS8H3wOe0jUxpe/view?usp=drive_link)
+
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fcJltHXfpTKZdEAONlg_FGyOrWhnWnPW/view?usp=drive_link) -->
 
 <h3 align="left">Connect with me:</h3>
